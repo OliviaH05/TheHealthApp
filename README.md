@@ -333,3 +333,6 @@ Copyright (c) 2026 OSS SLU – TheHealthApp Team.
 Project Lead: Munazzah Rakhangi
 Email: [munazzahrizwan.rakhangi@slu.edu](mailto:munazzahrizwan.rakhangi@slu.edu)
 
+## Commit Identity Test
+
+This is to test my changes to my commit identity
